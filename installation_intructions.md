@@ -23,6 +23,11 @@ Please download the `direct link` for the virtual image corresponding to the rel
 
 When the file has downloaded, double-clicking it should open VirtualBox and offer to import the virtual machine. Please follow the on-screen instructions to complete the import.
 
+Requirements:
+* 64-bit architecture (unless otherwise stated)
+* 3 GB RAM
+* Adequate hard drive space for the VM (at least 2 GB)
+
 When this is done, you're ready to start exploring the VM!
 
 ## Troubleshooting
