@@ -13,6 +13,6 @@ This is a list of ContentMine virtual machines, with descriptions, in reverse da
 
 ##Getting Started
 
-Follow tutorials in our worskshop repo for:
+Follow tutorials in our workshop repo for:
 * [quickscrape](https://github.com/ContentMine/workshops/tree/master/sessions/demo_scraping)
 * [AMI](https://github.com/ContentMine/workshops/tree/master/sessions/demo_ami)
