@@ -32,7 +32,7 @@ When the file has downloaded, double-clicking it should open VirtualBox and offe
 
 When this is done, you're ready to start [exploring the VM](using_contentmine_vm.md)!
 
-**Troubleshooting**
+### Troubleshooting
 
 If you have any problems getting VirtualBox, or downloading and importing the virtual image, don't worry. We wil set aside time during workshops to make sure everyone has access to the software.
 The most common error is an incomplete image, please check whether the download has been succesfully completed.
