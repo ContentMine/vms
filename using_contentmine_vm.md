@@ -51,16 +51,20 @@ In general: autocompletion with 'tab' may save you a lot of typing.
 
 ![cd](images/cd.png)
 
-**mv**: **m**o**v**es files and directories from the first location to the second.
+**mkdir**: **m**a**k**e **dir**ectory: creates a new directory
+
+![mkdir](images/mkdir.png)
+
+**mv**: **m**o**v**es files and directories from the first location to the second. You can move them further down into already existing directories, but also up with ```mv dir ../higher_dir```, and into the current directory with ```mv lower_dir ./new_lower_dir```.
+
+mv is also used to rename files or folders, e.g. ```mv old_filename.txt new_filename.txt```.
 
 ![mv](images/mv.png)
 
-**mkdir**: **m**a**k**e **dir**ectory: creates a new directory
-
-![mv](images/mkdir.png)
-
 **cp**: **c**o**p**ies files from the first location to the second
 
-![mv](images/mkdir.png)
+![cp](images/cp.png)
 
 **rm**: **r**e**m**oves the specified file. If you want to remove a directory, use rm -r but make sure you want this.
+
+![rm](images/rm.png)
