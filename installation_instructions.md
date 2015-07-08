@@ -28,6 +28,6 @@ When this is done, you're ready to start [exploring the VM](using_contentmine_vm
 
 ### Troubleshooting
 
-If you have any problems getting VirtualBox, or downloading and importing the virtual image, don't worry. We will set aside time during workshops to make sure everyone has access to the software.
+If you have any problems getting VirtualBox, or downloading and importing the virtual image, don't worry. Just contact the workshop organizer before the event and we can help you via email or skype. Please, please try and get these pre-workshop tasks done _before_ arriving at the workshop. There will be little time on the day to help with Virtualbox issues.
 
-The most common error is an incomplete image, please verify that the download has been succesfully completed.
+The most common error is an incomplete download of the large VM image file, please verify that the download has been succesfully and _fully_ completed.
