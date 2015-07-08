@@ -8,6 +8,8 @@ After installing the vm ([see here](installation_instructions.md)), you can star
 
 After a few seconds you land on the desktop.
 
+![CM vm desktop](images/desktop.png)
+
 ## 1. Usage
 
 Everything starts with a right click from here. If you want navigate through the folders on the machine, right-click on the desktop and select "File Manager". There is also a browser included, which can be opened with right-click and "Web Browser".
@@ -21,6 +23,8 @@ You can maximize it to fullscreen by double clicking on the title bar.
 ## 2. Basic commands
 
 ls: **l**i**s**ts files and directories, takes the current working directory as root
+
+![ls](images/ls.png)
 
 cd: **c**hange **d**irectory, moves the working directory location to the target location
 
