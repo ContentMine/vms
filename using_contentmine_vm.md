@@ -20,7 +20,7 @@ You can shut down the vm by right click and then "Exit", and "Power off".
 ## 1. Usage
 
 Everything starts with a right click from here. If you want navigate through the folders on the machine, right-click on the desktop and select "File Manager". There is also a browser included, which can be opened with right-click and "Web Browser".
-The ContentMine pipeline is controlled from the command line interface, which can be opened with right-click and "Terminal". This opens a text-based interface, from where we can navigate folders, look into files, and interact with the ContentMine software.
+The ContentMine pipeline is controlled from the **command line interface**, which can be opened with right-click and "Terminal". This opens a text-based interface, from where we can navigate folders, look into files, and interact with the ContentMine software.
 
 ![Terminal](images/terminal.png)
 
@@ -33,7 +33,7 @@ If you want to transfer files between the host system and the vm, you have to se
 
 ### Troubleshooting
 
-If you run into issues with your keyboard layout, open a terminal window and enter your locale, e.g. uk/us/de
+If you run into issues with your keyboard layout, open a terminal window and set the layout to your locale, e.g. uk/us/de
 ```
 setxkmap us
 ```
@@ -61,10 +61,10 @@ mv is also used to rename files or folders, e.g. ```mv old_filename.txt new_file
 
 ![mv](images/mv.png)
 
-**cp**: **c**o**p**ies files from the first location to the second
+**cp**: **c**o**p**ies files from the first location to the second. If you want to copy a folder, you have to use ```cp -r source_dir target_dir``` where ```-r``` stands for recursive.
 
 ![cp](images/cp.png)
 
-**rm**: **r**e**m**oves the specified file. If you want to remove a directory, use rm -r but make sure you want this.
+**rm**: **r**e**m**oves the specified file. If you want to remove a directory, use ```rm -r dir``` but make sure you want this.
 
 ![rm](images/rm.png)
