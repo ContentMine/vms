@@ -3,9 +3,13 @@
 
 # Working in the ContentMine virtual machine
 
-[Usage](# 1. Usage)
+[1. Starting](# 1. Starting)
 
-[Commands](# 2. Basic Commands)
+[1. Usage](# 2. Usage)
+
+[2. Basic Commands](# 3. Basic Commands)
+
+## 1. Starting
 
 After installing the vm ([see here](installation_instructions.md)), you can start the machine from the VirtualBox interface. Choose the image called ContentMine-VM and click the "Start" button.
 
@@ -17,14 +21,20 @@ After a few seconds you land on the desktop.
 
 You can shut down the vm by right click and then "Exit", and "Power off".
 
-## 1. Usage
+## 2. Usage
 
-Everything starts with a right click from here. If you want navigate through the folders on the machine, right-click on the desktop and select "File Manager". There is also a browser included, which can be opened with right-click and "Web Browser".
+Everything starts with a right click from here. If you want to visually navigate through the folders on the machine, right-click on the desktop and select "File Manager". There is also a browser included, which can be opened with right-click and "Web Browser".
 The ContentMine pipeline is controlled from the **command line interface**, which can be opened with right-click and "Terminal". This opens a text-based interface, from where we can navigate folders, look into files, and interact with the ContentMine software.
 
 ![Terminal](images/terminal.png)
 
 You can maximize it to fullscreen by double clicking on the title bar.
+
+### Copy & Paste
+
+The settings of the vm allows to share the clipboard with the host machine. That means you can copy a url from the host machine's browser and paste it into the vm's browser, and vice versa. That works also with e.g. longer text and between text editors.
+
+If you want to paste something into the command line, this is possible with right-click+"Paste", or ```Ctrl+Shift+V```. If you want to copy something out of the command line, e.g. an error message, highlight the message with the cursor, and then either right-click+"Copy" or use ```Ctrl+Shift+C```.
 
 ### File import/export between the host system and the vm
 
@@ -39,7 +49,7 @@ setxkmap us
 ```
 
 
-## 2. Basic commands
+## 3. Basic commands
 
 In general: autocompletion with 'tab' may save you a lot of typing.
 

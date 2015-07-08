@@ -1,11 +1,11 @@
 # ContentMine virtual machines
 
 ## Installation Instructions
-See [this page](https://github.com/ContentMine/vms/blob/master/installation_intructions.md) for getting started with installing a VM.
+See [this page](installation_instructions.md) for getting started with installing a VM.
 
 ## How to use the virtual machine
 
-See [this page](using_contentmine_vm.md) for introductory explanations of how to use and navigate in the vm.
+See [this page](using_contentmine_vm.md) for introductory explanations on how to use and navigate in the vm.
 
 ##List of available machines
 
@@ -15,7 +15,7 @@ This is a list of ContentMine virtual machines, with descriptions, in reverse da
 2. 'Cochrane' VM for Oxford Cochrane centre workshop [2015/03/15] - [direct link](https://drive.google.com/file/d/0B6ChGXuXmOEDemRtb1JBakREYWc/view?usp=sharing)
 3. 'Playground' VM for [EBI workshop](https://github.com/ContentMine/EBI_workshop_20150330) [2015/03/30] - [direct link](https://drive.google.com/uc?export=download&confirm=dp8f&id=0B6ChGXuXmOEDNWx2d0EwbDkyY00) - [installation instructions](https://github.com/ContentMine/EBI_workshop_20150330/blob/master/docs/pre-workshop_installation.pdf)
 
-##Getting Started
+##Getting started with content mining
 
 Follow tutorials in our workshop repo for:
 * [quickscrape](https://github.com/ContentMine/workshops/tree/master/sessions/demo_scraping)
