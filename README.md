@@ -4,7 +4,7 @@
 
 A virtual machine is a simulated operating system 'within' your operating system (think Inception for operating systems). In our case it is a Linux-based [Debian distribution](https://www.debian.org/). The user interface may appear quite different on the first view, and we provide information how to navigate and use it [here](using_contentmine_vm.md).
 
-We use virtual machines (VMs) in order to carry out hands-on exercises using the ContentMine software. This allows all attendees to run the software without having to modify their own systems. The ContentMine tool chain requires external software and third party tools, the setup of which is not trivial on some operating systems and takes time and effort (e.g. node.js, the right java version, latex2html,...). We therefore offer the virtual machine as a **pre-configured environment**, which can be guaranteed to work. This allows to directly start with content mining.
+We use virtual machines (VMs) in order to carry out hands-on exercises using the ContentMine software. This allows all attendees to run the software without having to modify their own systems. The ContentMine tool chain requires external software and third party tools, the setup of which is not trivial on some operating systems and takes time and effort (e.g. node.js, the right java version, latex2html,...). We therefore offer the virtual machine as a **pre-configured environment**, which can be guaranteed to work. This allows us to quickly and smoothly get content mining, with a mininum of fuss.
 
 ## Installation Instructions
 See [this page](installation_instructions.md) for getting started with installing a VM.
