@@ -5,9 +5,9 @@
 
 [1. Starting](# 1. Starting)
 
-[1. Usage](# 2. Usage)
+[2. Usage](# 2. Usage)
 
-[2. Basic Commands](# 3. Basic Commands)
+[3. Basic Commands](# 3. Basic Commands)
 
 ## 1. Starting
 
