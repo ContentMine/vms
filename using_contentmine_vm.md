@@ -4,6 +4,7 @@
 # Working in the ContentMine virtual machine
 
 [Usage](# 1. Usage)
+
 [Commands](# 2. Basic Commands)
 
 After installing the vm ([see here](installation_instructions.md)), you can start the machine from the VirtualBox interface. Choose the image called ContentMine-VM and click the "Start" button.
