@@ -1,6 +1,6 @@
 # ContentMine virtual machines
 
-## [Installation Instructions] (https://github.com/ContentMine/vms/blob/master/installation_intructions.md)
+## Installation Instructions
 See [this page] (https://github.com/ContentMine/vms/blob/master/installation_intructions.md) for getting started with installing a VM.
 
 ##List of available machines
